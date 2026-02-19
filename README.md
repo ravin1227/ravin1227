@@ -44,54 +44,36 @@ Building scalable SaaS platforms & production-grade web systems.
 
 ---
 
+## 🚀 Featured Projects
+
+### 🛍 Dailzy  
+Multi-tenant commerce ecosystem with customer & vendor separation.  
+Web SPA + backend API + vendor mobile app with structured billing workflows.  
+**Stack:** Laravel • Vue • PostgreSQL • Flutter
+
+---
+
+### 📸 Photonix  
+Self-hosted modern gallery system with optimized storage handling and clean UI architecture.  
+Focused on performance and scalable frontend structure.  
+**Stack:** TypeScript • Frontend Architecture
+
+---
+
+### 📚 BookMind  
+AI-powered document intelligence platform.  
+Transforms PDFs into structured knowledge with context-aware chatbot interaction.  
+**Stack:** Laravel • Vue • AI Processing
+
+
+---
+
 ## ⚙️ Tech Stack
 
-<table width="100%">
-<tr>
-<td align="center" width="50%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,js,html,css,tailwind,laravel,php,nodejs,postgres,mysql,flutter,dart,react&perline=7" />
+</p>
 
-### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=vue,js,html,css,tailwind" />
-
-Vue.js • JavaScript • Tailwind CSS  
-Axios • Heroicons
-
-</td>
-
-<td align="center" width="50%">
-
-### 🛠 Backend
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
-
-Laravel 11+ • REST APIs  
-Laravel Passport • Twilio Verify  
-Queue Handling
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 🗄 Database
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-PostgreSQL • Relational Modeling  
-Query Optimization • Billing Logic
-
-</td>
-
-<td align="center" width="50%">
-
-### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=flutter,dart,react" />
-
-Flutter • React Native  
-API-driven Architecture
-
-</td>
-</tr>
-</table>
 
 ---
 
